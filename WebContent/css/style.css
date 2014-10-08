@@ -1,0 +1,108 @@
+.table {
+	font-family: Consolas;
+	font-size: 12px;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	width:780px;
+}
+
+.table tr {
+}
+
+.table th {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	text-align: center;
+	vertical-align: bottom;
+	background-color: gray;	
+}
+
+.table td {
+	border-top: 1px solid;
+	border-left: 1px solid;
+	vertical-align: middle;
+	padding: 1px;
+}
+
+.link {
+	text-decoration:inherit;
+}
+
+.title {
+	font-family: Consolas;
+	font-size: 32px;
+	font-style: bold;
+}
+
+.label {
+	font-family: Consolas;
+	font-size: 12px;	
+}
+
+.field {
+	font-family: Consolas;
+	font-size: 12px;	
+	width: 300px;
+	border: 1px solid black;
+}
+
+.fieldDisabled {
+	font-family: Consolas;
+	font-size: 12px;	
+	width: 300px;
+	background-color: #ddd;
+	border: 1px solid black;
+}
+
+
+.button {
+	font-family: Consolas;
+	font-size: 12px;	
+	width: 100px;
+	background-color: gray;
+	border: 1px solid black;
+}
+
+.title {
+	font-family: Consolas;
+	font-size: 30px;	
+	width: 100%;
+	height: 40px;
+	background-color: gray;
+	text-align: left;
+}
+
+.menu {	
+	width: 200px;
+	height: 600px; 
+	border: 1px solid #b7b7b7;
+	position:relative;
+	float:left;	
+}
+
+.main {
+	font-family: Consolas;	
+	width: 80%;
+	border: 1px solid #b7b7b7;
+	position:relative;
+	float:left;
+}
+
+.pure-menu {
+	font-family: Consolas;
+	font-size: 15px;
+	font-bottom-width:1px;
+	background: #fff;
+	border: 3px solid #b7b7b7;
+}
+
+.pure-menu-heading {
+	font-family: Consolas;
+	color: #565d64;
+	text-transform: uppercase;
+	font-size: 90%;
+	margin-top:.5em;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dfdfdf;
+}
